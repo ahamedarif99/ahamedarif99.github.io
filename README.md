@@ -13,8 +13,8 @@
 <p style="text-align: center">Semantic Personal Publishing Platform</p>
 
 <h2>First Things First</h2>
-<p>Welcome. WordPress is a very special project to me. Every developer and contributor adds something unique to the mix, and together we create something beautiful that I&#8217;m proud to be a part of. Thousands of hours have gone into WordPress, and we&#8217;re dedicated to making it better every day. Thank you for making it part of your world.</p>
-<p style="text-align: right">&#8212; Matt Mullenweg</p>
+<p>Welcome. This is my wordpress website I made originally hosted on linux, ubuntu 16.04, for CSE 311 - system administration. If you go to my github you can find the configuration files used to run the website. Enjoy!</p>
+<p style="text-align: right">&#8212; Ahamed Arif</p>
 
 <h2>Installation: Famous 5-minute install</h2>
 <ol>
